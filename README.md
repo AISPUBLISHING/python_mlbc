@@ -9,6 +9,7 @@ Simply open the Jupyter notebooks you are interested in:
 * Best Option: Download the notebooks and use Google Colab https://colab.research.google.com or Jupyter Notebook available in ANACONDA.
 
 
-# SPECIAL DISCOUNT OFFER : In Youtube you learn only the regression section of the Course. We have a special offer to you here : YOU CAN GET THE FULL COURSE AT 90% DISCOUNT PRICE : 9.99$ INSTEAD OF ~~199.99$~~ 
-# CLICK TO THE LINK TO GET THE FULL COURSE 
+# SPECIAL DISCOUNT OFFER : 
+## In Youtube you learn only the regression section of the Course. We have a special offer to you here : YOU CAN GET THE FULL COURSE AT 90% DISCOUNT PRICE : 9.99$ INSTEAD OF ~~199.99$~~ 
+## CLICK TO THE LINK TO GET THE FULL COURSE 
 
