@@ -1,5 +1,5 @@
-# Python Data Science and Machine Learning for Beginners Notebooks
-This project aims at teaching you the fundamentals of Data Science and Machine Learning in python. It contains the example code and case studies. It is constitute the practical part of our AI Sciences Course: Python Data Science and Machine Learning for Beginners
+# Python Machine learning for Beginners Course
+This project aims at teaching you the Python Machine Learning. It contains the example code and case studies. It is constitute the practical part of our AI Sciences Course: Python Machine Learning for Beginners
 
 <img src="Course_Python Data Science and Machine learning for Beginners.png" width="600">
 
