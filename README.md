@@ -8,5 +8,7 @@ Simply open the Jupyter notebooks you are interested in:
 * Option 2: cloning this repository and running Jupyter locally. This option lets you play around with the code. In this case, follow the installation instructions below.
 * Best Option: Download the notebooks and use Google Colab https://colab.research.google.com or Jupyter Notebook available in ANACONDA.
 
-# SPECIAL DISCOUNT OFFER : IN YOUTUBE YOU HAVE ONLY THE REGRESSION PART OF THE COURSE. YOU CAN GET THE FULL COURSE AT 90% DISCOUNT PRICE 9.99$ ~~ (INSTEAD OF 199.99$) ~~ CLICK TO THE LINK TO GET THE FULL COURSE 
+
+# SPECIAL DISCOUNT OFFER : In Youtube you learn only the regression section of the Course. We have a special offer to you here : YOU CAN GET THE FULL COURSE AT 90% DISCOUNT PRICE : 9.99$ INSTEAD OF ~~199.99$~~ 
+# CLICK TO THE LINK TO GET THE FULL COURSE 
 
