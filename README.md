@@ -8,12 +8,5 @@ Simply open the Jupyter notebooks you are interested in:
 * Option 2: cloning this repository and running Jupyter locally. This option lets you play around with the code. In this case, follow the installation instructions below.
 * Best Option: Download the notebooks and use Google Colab https://colab.research.google.com or Jupyter Notebook available in ANACONDA.
 
-## Installation
-First, you will need to install git, if you don't have it already.
-Next, clone this repository by opening a terminal and typing the following commands:
-$ cd $HOME  # or any other development directory you prefer 
-$ git clone https://github.com/AISCIENCES/pdsmlb.git 
-$ cd dlf-python 
-If you do not want to install git, you can instead download master.zip, unzip it, rename the resulting directory to dlf-python and move it to your development directory.
-
+# SPECIAL DISCOUNT OFFER : IN YOUTUBE YOU HAVE ONLY THE REGRESSION PART OF THE COURSE. YOU CAN GET THE FULL COURSE AT 90% DISCOUNT PRICE 9.99$ ~~ (INSTEAD OF 199.99$) ~~ CLICK TO THE LINK TO GET THE FULL COURSE 
 
